@@ -2,7 +2,7 @@
 
 For those of you who use OneDrive or Dropbox you may have noticed that they create non-removable shortcuts in the Explorer sidebar. If you are also a Google Drive user you&#39;ll notice that Google Drive doesn&#39;t create the same shortcuts.
 
-![Image of first print](http://luke.digital/content/images/2016/08/google-drive-before.jpg)
+![Image of first print](https://luke.digital/content/images/2016/08/google-drive-before.jpg)
 
 Following the steps below you can create the same shortcut for Google Drive.
 
@@ -18,9 +18,13 @@ Following the steps below you can create the same shortcut for Google Drive.
 
 ## Results
 
-![Image of first print](http://luke.digital/content/images/2016/08/google-drive-after.jpg)
+![Image of first print](https://luke.digital/content/images/2016/08/google-drive-after.jpg)
 
 
 You should now see Google Drive pinned to the Explorer sidebar.
 
-Credits: [**luke.digital**](http://luke.digital/adding-google-drive-to-the-explorer-sidebar/)
+Credits: [**luke.digital**](https://luke.digital/adding-google-drive-to-the-explorer-sidebar/)
+
+## Notes
+Now fixed to display the Google Drive Icon instead of the Backup and Sync icon.
+Credits: [**warderer**](https://www.cesarguerra.mx/)
